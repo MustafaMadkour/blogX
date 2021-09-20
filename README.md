@@ -1,8 +1,6 @@
 # BlogX
-# BlogX
-
   ## API
-  Blog API created in Nestjs - Postgres
+   Blog API created in Nestjs - Postgres
    ## CRUD for User Entity:
     typeorm 
     Observables instead of Promises (use Rxjs)
